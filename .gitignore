@@ -50,3 +50,7 @@ coverage/
 # Uploads
 uploads/
 public/uploads/
+
+node_modules/
+.env
+dist/
